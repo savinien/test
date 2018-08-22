@@ -3,4 +3,4 @@ blabla
 
 c'est que des nazes au learning hub!
 
-hop
+en fait c'est pas ce que je voulais dire: MERCI LES GARS!
