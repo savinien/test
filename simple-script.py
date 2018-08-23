@@ -9,7 +9,7 @@ coherences = [0.21, 0.23, 0.24, 0.22]
 # line plot
 ax = plt.plot(k_values, coherences)
 plt.xticks(k_values)
-plt.xlabel("Number of Topics")
+plt.xlabel("Number of Topics (yeah baby!)")
 plt.ylabel("Mean Coherence")
 # add the points
 plt.scatter(k_values, coherences, s=120)
