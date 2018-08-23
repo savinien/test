@@ -9,3 +9,5 @@ autre modif
 voilà la modif finale!
 
 Et je rajoute du texte, ainsi qu'un autre fichier .py
+
+Et je continue à ajouter des trucs... notamment un autre script python. Et encore quelques trucs.
